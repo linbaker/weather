@@ -1,27 +1,45 @@
-# TryAgain
+# _Weather Channel Remake_
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
+https://github.com/linbaker/Weather-Channel-Homepage-Remake
 
-## Development server
+#### _Angular Exercise for Epicodus, 06.14.2019_
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#### By _**Lindsey Baker**_
 
-## Code scaffolding
+## Description
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+_This application is a remake of the Weather Channel local weather page, such as this local weather page for Portland, Or
+https://weather.com/weather/today/l/9aaa3200282b4955b15d752a885ebb3dde239a1d29aca5b7baa71d464e948256 . _
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Setup/Installation Requirements
 
-## Running unit tests
+* _Clone Repository_
+* _Visit https://openweathermap.org/  and navigate to "Get a free API key", create a free account to generate an API key_
+* _Create file in root of project directory called ".env", set apiKey = your generated API key_
+* _Run "$ npm install" in terminal_
+* _Run "$ npm run start" in terminal_
+* _Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files._
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Known Bugs
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Support and contact details
 
-## Further help
+_Please contact me with any questions, ideas or concerns at lindseybaker0@gmail.com_
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Technologies Used
+
+_Weather API_
+_This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5._
+_Javascript (ECMA6)_
+_Node Package Manager (Webpack, Babel, ESLint)_
+_Bootstrap_
+_JQuery_
+_Popper.js_
+
+
+### License
+
+*This software is licensed under the MIT license.*
+Copyright (c) 2019 **Lindsey Baker**
