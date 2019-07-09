@@ -1,6 +1,8 @@
 # _Weather Channel Remake_
 
-https://github.com/linbaker/Weather-Channel-Homepage-Remake
+https://github.com/linbaker/weather
+
+Deployed at https://tryagain3.firebaseapp.com/
 
 #### _Angular Exercise for Epicodus, 06.14.2019_
 
